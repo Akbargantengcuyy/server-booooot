@@ -1,0 +1,9 @@
+{
+	"ip":"SansKuy_S2.aternos.me",
+	"port": "52666",
+	"name": "ElasticLemurBot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
